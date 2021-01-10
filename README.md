@@ -1,1 +1,1 @@
-# multiculturalclub-website
+# multicultural-club-website
